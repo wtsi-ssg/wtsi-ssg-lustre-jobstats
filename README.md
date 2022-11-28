@@ -14,7 +14,7 @@ meeting on the 30th of November 2022 in Manchester
 Once the web server is running on the lustre servers and the cron
 job is injecting data into grafana then graphs like these are available.
 
-![plot](./media/example\ lustre\ stats.png)
+![Example image](https://github.com/wtsi-ssg/wtsi-ssg-lustre-jobstats/blob/main/media/example%20lustre%20stats.png?raw=true)
 
 There are further readme's in the directories for the lustre servers
 and the monitoring host.
